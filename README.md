@@ -1,6 +1,7 @@
-# fSociety Blog
-
-A modern, responsive blog website built with Next.js 15, TypeScript, and Tailwind CSS.
+<div align="center">
+    <h1>❖ Fsociety | Fourm for tech enthusiast & night owls</h1>
+  <p><em> Fourm for sharing tech releated tips and tricks with no censorship no tracking</em></p>
+</div>
 ## 🚀 Features
 
 - **Modern Design**: Dark theme with orange/red gradient accents
@@ -8,33 +9,6 @@ A modern, responsive blog website built with Next.js 15, TypeScript, and Tailwin
 - **Blog System**: Complete blog with categories, featured posts, and pagination
 - **User Authentication**: Login and signup pages (UI only)
 - **Performance Optimized**: Fast loading with Next.js optimizations
-
-## 📁 Project Structure
-
-```
-├── app/
-│   ├── (frontend)/          # Public pages
-│   │   ├── page.tsx         # Home page
-│   │   ├── blog/            # Blog pages
-│   │   ├── about-us/        # About page
-│   │   ├── contact/         # Contact page
-│   │   └── categories/      # Categories page
-│   ├── (User)/              # User pages
-│   │   ├── login/           # Login page
-│   │   ├── signup/          # Signup page
-│   │   └── dashboard/       # Dashboard page
-│   ├── globals.css          # Global styles
-│   └── layout.tsx           # Root layout
-├── Components/               # Reusable components
-│   ├── Navbar.tsx           # Navigation bar
-│   ├── Footer.tsx           # Footer component
-│   └── UserNav.tsx          # User navigation
-├── public/                  # Static assets
-│   ├── favicon.ico
-│   ├── preview.png
-│   └── wallpaperflare.com_wallpaper.jpg
-└── package.json
-```
 
 ## 🛠️ Technologies Used
 
